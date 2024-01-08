@@ -1,2 +1,2 @@
 # jeep
-This repository contains changes to the Jeep Prayer as it evolves in the Jeep Western Wanderer (JWW) group. 
+This repository contains changes to the Jeep Prayer as it evolves in the Jeep Western Wanderer (JWW) group. Original prayer was submitted by "Mittal", subscequent changes are done as per JWW memebers requests or additions or observations. This respository is created to change the evolution of the prayer.
